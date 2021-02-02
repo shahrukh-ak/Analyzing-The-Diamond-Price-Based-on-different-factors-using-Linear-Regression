@@ -36,5 +36,15 @@ It contains 5 variables with 4 regressor and 1 response.
   <tr>
     <td>Certification (GIA,IGI,HRD)</td>
   </tr>
-  </table>
 </table>
+
+## Model Analysis
+
+<p>
+We are using the model to predict the price depending on the colour, clarity, certification and carat. Here we are using multiple linear regression model. Because we have multiple variables and price is a continiuos variable. We build the Anova of the model and we conclude that certification is not a significant
+variable.
+</p>
+
+
+
+
