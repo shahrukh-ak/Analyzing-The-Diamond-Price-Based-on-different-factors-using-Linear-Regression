@@ -32,4 +32,8 @@ sample estimates:
   mean of x mean of y
 2694.773 5858.170 
 
-# From above test, the p value is higher than 0.05 so we failed to reject the null hypothesis and conclude that we don't have enough evidence to tell that price is dependent on clarity
+# From above test, the p value is higher than 0.05 so we failed to reject the null hypothesis and conclude that we don't have enough evidence to tell that price is dependent on clarity.
+
+
+
+
