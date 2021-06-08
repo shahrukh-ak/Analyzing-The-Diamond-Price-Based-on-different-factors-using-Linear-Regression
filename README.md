@@ -45,6 +45,24 @@ We are using the model to predict the price depending on the colour, clarity, ce
 variable.
 </p>
 
+## Model Improvement
+
+<p>
+We ran stepAIC for our model to check for the insignificant variable. Insignificant variable is found to be Certification. <br>
+The model is improved by making several residual plots and box cox transformation.
+</p>
+
+## Prediction of data using model
+<p>
+We predicted the price of a diamond by using carat = 0.75, colour = I and clarity = VS1. The predicted diamond value is equal to (67.45631)^2 = 4550, the original diamond value in our data set is 4335. So our model is predicting approximately the real diamond value. </p>
+
+## Conclusion
+<p>
+In this project, we analyzed and modeled the price of a diamond based on carat, colour, clarity and certification.
+Also we did the several T test to conclude which factor effecting the price of the diamond.
+Using our model, we determined the price of diamond.
+</p>
+
 
 
 
